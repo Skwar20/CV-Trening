@@ -37,7 +37,7 @@ section {
   height: 5px;
   border-radius: 5px;
   margin: 10px 0;
-  background-color: #654dd3;
+  background-color: #764ba2;
 }
 
 .left {
@@ -122,7 +122,7 @@ section {
   font-size: 16px;
   border: 2px solid transparent;
   color: #ddd;
-  background-color: #654dd3;
+  background-color: #764ba2;
   cursor: pointer;
   -webkit-transition: background-color 0.3s;
   transition: background-color 0.3s;
@@ -173,7 +173,7 @@ section {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #654dd3;
+  background-color: #764ba2;
   -webkit-transform-origin: left;
           transform-origin: left;
   -webkit-transition: all 0.3s;
@@ -186,7 +186,6 @@ section {
   right: -100px;
   opacity: 0;
   text-decoration: none;
-  color: red;
   list-style: none;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -300,7 +299,7 @@ section {
 .right .down-container .card-items .card i {
   font-size: 35px;
   margin: 0 20px 0 0;
-  color: #7455ff;
+  color: #764ba2;
 }
 
 .right .down-container .card-items .one .fas {
