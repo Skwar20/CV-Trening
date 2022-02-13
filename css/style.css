@@ -201,6 +201,7 @@ section {
 
 .right .up-container .menu-item i {
   color: #ddd;
+  cursor: pointer;
 }
 
 .right .up-container .active {
