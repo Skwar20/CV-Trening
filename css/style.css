@@ -204,6 +204,12 @@ section {
   cursor: pointer;
 }
 
+.right .up-container .menu-item button {
+  color: transparent;
+  background-color: transparent;
+  border: none;
+}
+
 .right .up-container .active {
   width: 250px;
   height: 40px;
